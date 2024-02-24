@@ -1,10 +1,11 @@
 # Super Store Dashboard - Using Power BI
-![Screenshot (114)](https://github.com/Pratham0311Arya/SuperStore-Dashboard/assets/143388323/9df25289-3d0b-4a89-96e4-bfbe146f99cd)
+![Dashboard](https://github.com/Pratham0311Arya/SuperStore-Dashboard/assets/143388323/845e7a4c-e6a3-4381-a194-8ddbc4378dd3)
 <br>
 ## Forecasting Sales For 60 Dsys
 <br>
 
-![Screenshot (111)](https://github.com/Pratham0311Arya/SuperStore-Dashboard/assets/143388323/38b181c1-f693-4e58-bfb0-232b4c13f1e7)
+![Forecasting](https://github.com/Pratham0311Arya/SuperStore-Dashboard/assets/143388323/71e39be0-22ac-4d0c-9661-5e9b6ac6b9ab)
+
 
 <br>
 
