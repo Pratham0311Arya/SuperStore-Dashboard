@@ -16,7 +16,7 @@
 - Phones brings most of the sales											
 - During December season the sales are at its peak											
 - Most profit is made in the month of March and October i.e. may be due to Holi and Diwali Sales											
-  - In south region Florida brings most of the sales followed by Georgeia and Carolina											
+- In south region Florida brings most of the sales followed by Georgeia and Carolina											
 - We have done 222K+ orders and 1.6M+ sales in last 2 years											
 - We have seen a good growth from last year in terms of sales and profit											
 - And many more valuable insights							
